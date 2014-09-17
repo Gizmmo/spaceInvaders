@@ -12,8 +12,6 @@ function init() {
  * @return {Canvas}       The canvas created
  */
 createHiDPICanvas = function(w, h, ratio) {
-	console.log(w);
-	console.log(h);
 	if (!ratio) {
 		ratio = PIXEL_RATIO();
 	}

@@ -1,0 +1,7 @@
+Object Variables
+Average Price
+Current Price
+Previous Price
+Total Stock in Game  (LI)
+
+
